@@ -34,8 +34,8 @@
 
   /* Primary buttons: For instance the Go button on the Search bar, when the search bar is clicked on */
   --ts-var-button--primary-color: white;
-  --ts-var-button--primary-background: crimson;
-  --ts-var-button--primary--hover-background: #C70039;
+  --ts-var-button--primary-background: pink;
+  --ts-var-button--primary--hover-background: pink;
   --ts-var-button--primary--font-family: initial;
   
   /* Secondary buttons: For instance most of the buttons on a Liveboard */
@@ -51,12 +51,12 @@
   
   /******** Visualizations ********/
   /* Viz title customizations*/
-  --ts-var-viz-title-color: charcoal;
+  --ts-var-viz-title-color: red;
   --ts-var-viz-title-font-family: initial;
   --ts-var-viz-title-text-transform: italic;
 
   /* Viz subtitle customizations*/
-  --ts-var-viz-description-color: #A4A4A3;
+  --ts-var-viz-description-color: red;
   --ts-var-viz-description-font-family: initial;
   --ts-var-viz-description-text-transform: initial;
   
