@@ -14,7 +14,7 @@
   --ts-var-root-color: initial; 
   
   /*App background, app-wide font, app-wide text transform */
-  --ts-var-root-background: initial;
+  --ts-var-root-background: red;
   --ts-var-root-font-family: initial;
   --ts-var-root-text-transform: initial;
 
