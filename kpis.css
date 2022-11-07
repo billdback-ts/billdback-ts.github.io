@@ -8,6 +8,24 @@
 }
 
 :root {
+  
+  /** Custome - not supported.
+      Goal - change the font on KPI charts.
+        - make the title bigger and gray
+        - make the measure number bigger and blue
+   */
+
+  /* Visualization title */
+  .answer-title-module__titleText {
+    font-size: 24px;
+    color: darkgrey;
+  }
+
+  /* Visulation values */
+  .kpi-module__hero {
+    color: cornflowerblue;
+  }
+
   /******** App ********/
   
   /*Currently undefined */
@@ -65,18 +83,3 @@
   --ts-var-viz-background: initial;
 }
 
-/* Goal - change the font on KPI charts.
- * - make the title bigger and gray
- * - make the measure number bigger and blue
- */
-
-/* Visualization title */
-.answer-title-module__titleText {
-  font-size: 24px;
-  color: darkgrey;
-}
-
-/* Visulation values */
-.kpi-module__hero {
-    color: cornflowerblue;
-}
