@@ -14,7 +14,7 @@
  */
 
 /* Visualization title */
-.answer-title-module__titleText {
+span.answer-title-module__titleText {
   font-size: 24px;
   color: darkgrey;
 }
