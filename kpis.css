@@ -64,3 +64,19 @@
   --ts-var-viz-box-shadow: 1px 2px 5px #888888;
   --ts-var-viz-background: initial;
 }
+
+/* Goal - change the font on KPI charts.
+ * - make the title bigger and gray
+ * - make the measure number bigger and blue
+ */
+
+/* Visualization title */
+.answer-title-module__titleText {
+  font-size: 24px;
+  color: darkgrey;
+}
+
+/* Visulation values */
+.kpi=module__hero {
+    color: cornflowerblue;
+}
